@@ -1,5 +1,6 @@
 NES/SNES 240p de-jitter mod
 ==============
+Updated to use ATF1502AS-10JU44
 
 snes_dejitter is a mod board which eliminates sync jitter of NES/SNES 240p modes. Technical description and discussion is found on [this](https://shmups.system11.org/viewtopic.php?f=6&t=61285) thread.
 
